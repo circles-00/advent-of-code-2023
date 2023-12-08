@@ -7,7 +7,7 @@ import { readInput } from '../../utils'
 
 const $${challengeName} = () => {
   const input = readInput(join(__dirname, './input.txt'))
-  const inputLines = input.split('')
+  const inputLines = input.split('\n')
 }
 
 export default $${challengeName}
