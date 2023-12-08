@@ -11,5 +11,5 @@ yarn start <number of challenge> # This will run specific challenge
 # Generating an empty challenge
 
 ```shell
-yarn generate-challenge <name of challenge>
+yarn generate <name of challenge>
 ```
