@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/index.ts",
+    "generate": "ts-node src/generate-challenge.ts"
   },
   "author": "",
   "license": "ISC",
